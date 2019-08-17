@@ -8,3 +8,7 @@ This should create a new branch (the -b branch_name part) and switch you to the 
 3. Make your changes in the code.
 4. Go through the usual processes of add . and commit on the branch.
 <!-- The master version stops here. -->
+<!-- branch_one starts here-->
+5. git push in the normal way.
+6. Each time you make changes to a branch, go through the usual add, commit, push.
+7. Once you are ready to merge...
