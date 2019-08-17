@@ -1,0 +1,10 @@
+#Practising Git branching#
+
+1. Create your Git file and repository as normal.
+2. In the terminal, type git checkout -b branch_name.
+
+This should create a new branch (the -b branch_name part) and switch you to the new branch. You can check which branch you are on by looking at the terminal - there is a * next to the branch you are on.
+
+3. Make your changes in the code.
+4. Go through the usual processes of add . and commit on the branch.
+<!-- The master version stops here. -->
